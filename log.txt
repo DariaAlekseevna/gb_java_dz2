@@ -1,0 +1,190 @@
+мар. 26, 2023 6:04:29 AM task2 main
+INFO: Creare an array of integers.
+мар. 26, 2023 6:04:29 AM task2 main
+INFO: Call bubble sort function.
+мар. 26, 2023 6:04:29 AM task2 BubbleSort
+INFO: Creare a temporary and an array length variable.
+мар. 26, 2023 6:04:29 AM task2 BubbleSort
+INFO: temp = 0
+мар. 26, 2023 6:04:29 AM task2 BubbleSort
+INFO: arrLength = 11
+мар. 26, 2023 6:04:29 AM task2 BubbleSort
+INFO: Created cycle for bubble sorting.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 0temp = 0
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 1temp = 4
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 2temp = 4
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 3temp = 4
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 4temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 5temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 6temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 7temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 8temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 9temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 11
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 0temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 1temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 2temp = 73
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 3temp = 72
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 4temp = 72
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 5temp = 72
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 6temp = 72
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 7temp = 72
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 8temp = 72
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 10
+мар. 26, 2023 6:04:30 AM task2 BubbleSort
+INFO: i = 0temp = 72
+мар. 26, 2023 6:04:31 AM task2 BubbleSort
+INFO: i = 1temp = 72
+мар. 26, 2023 6:04:31 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:31 AM task2 BubbleSort
+INFO: i = 2temp = 4
+мар. 26, 2023 6:04:31 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:31 AM task2 BubbleSort
+INFO: i = 3temp = 4
+мар. 26, 2023 6:04:31 AM task2 BubbleSort
+INFO: i = 4temp = 4
+мар. 26, 2023 6:04:31 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 5temp = 11
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 6temp = 11
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 7temp = 11
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 9
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 0temp = 33
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 1temp = 33
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 2temp = 33
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 3temp = 33
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 4temp = 33
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 5temp = 33
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 6temp = 33
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 8
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 0temp = 22
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 1temp = 22
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 2temp = 22
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 3temp = 22
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 4temp = 22
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 5temp = 22
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 7
+мар. 26, 2023 6:04:32 AM task2 BubbleSort
+INFO: i = 0temp = 11
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 1temp = 11
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 2temp = 11
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 3temp = 11
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 4temp = 11
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: Neighboring elements are swapped with each other.
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 6
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 0temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 1temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 2temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 3temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 5
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 0temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 1temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 2temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 4
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 0temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 1temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 3
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: i = 0temp = 9
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: Reduce array length and counter(i) start from the beginning. arrlength = 2
+мар. 26, 2023 6:04:33 AM task2 BubbleSort
+INFO: Returned sorted array.
+мар. 26, 2023 6:04:33 AM task2 main
+INFO: The sorted array is output to the terminal.
